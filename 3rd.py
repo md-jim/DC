@@ -5,7 +5,8 @@ import matplotlib.pyplot as plt
 data = input("Enter binary data: ")
 bits = [int(b) for b in data]
 
-samples = 100
+samples = 200
+A = 1
 f0 = 2
 f1 = 5
 
